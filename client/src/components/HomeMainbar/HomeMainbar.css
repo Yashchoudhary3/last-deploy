@@ -3,6 +3,7 @@
     float: left;
     margin: -10px 0px;
     padding: 0;
+    /* background-color: lightgray; */
 }
 .main-bar-header{
     display: flex;

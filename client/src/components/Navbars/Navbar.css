@@ -19,6 +19,7 @@ main-nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: lightgray;
 }
 .nav-logo{
     padding: 5px 25px;
